@@ -18,6 +18,9 @@ A browser-based sliding tile puzzle game with custom image support, difficulty s
 Clone or download this repository.
 https://github.com/mayurhjaiswal29/IPUZZLE
 
+Tool used
+ChatGPT
+
 Open IPUZZLE.html in your browser.
 
 Upload an image, select difficulty, and hit "Shuffle" to play!
