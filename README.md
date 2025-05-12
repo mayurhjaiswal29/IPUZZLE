@@ -13,3 +13,14 @@ A browser-based sliding tile puzzle game with custom image support, difficulty s
 🎊 Celebration Effects – Confetti, burst animation, and sound upon completion.
 
 🔁 Play Again – Auto-reset and play with the same or a new image.
+
+🚀 How to Use
+Clone or download this repository.
+https://github.com/mayurhjaiswal29/IPUZZLE
+
+Open IPUZZLE.html in your browser.
+
+Upload an image, select difficulty, and hit "Shuffle" to play!
+
+🛠️ Tech Stack
+HTML, CSS, and JavaScript (Vanilla)
